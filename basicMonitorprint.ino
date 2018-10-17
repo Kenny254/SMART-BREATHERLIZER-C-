@@ -1,9 +1,10 @@
 /*
-This is a work in progress but hopefully it will help someone else by providing
-a base to start and work from.
-Please check out my Youtube videos here and consider a thumbs up if this helped you!
-Youtube : http://www.youtube.com/mkmeorg
-Website, Forum and store are at http://mkme.org
+CONNECTION
+
+ARDUINO -MQ3/LED
+AO - AOUT
+D8 -DOUT
+D13 -LED ANODE
 */
 
 const int AOUTpin=0;//the AOUT pin of the alcohol sensor goes into analog pin A0 of the arduino
